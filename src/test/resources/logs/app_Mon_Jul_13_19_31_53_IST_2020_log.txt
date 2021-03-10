@@ -1,0 +1,5 @@
+INFO    2020-07-13 19:31:55,600 [main] section9.TestBrowsers  - Opening URL in firefox browser
+INFO    2020-07-13 19:31:56,771 [main] section9.TestBrowsers  - Successfully opened URL in browser!!!
+INFO    2020-07-13 19:31:56,936 [main] section9.TestBrowsers  - Sign in – Google accounts
+INFO    2020-07-13 19:31:57,166 [main] section9.TestBrowsers  - typed in username
+INFO    2020-07-13 19:31:57,252 [main] section9.TestBrowsers  - clicking on next button
