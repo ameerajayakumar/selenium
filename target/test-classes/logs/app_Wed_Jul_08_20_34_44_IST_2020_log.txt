@@ -1,0 +1,6 @@
+INFO    2020-07-08 20:34:48,275 [main] section9.TestBrowsers  - Opening URL in firefox browser
+INFO    2020-07-08 20:34:49,909 [main] section9.TestBrowsers  - Successfully opened URL in browser!!!
+INFO    2020-07-08 20:34:49,919 [main] section9.TestBrowsers  - Sign in – Google accounts
+INFO    2020-07-08 20:34:50,048 [main] section9.TestBrowsers  - typed in username
+INFO    2020-07-08 20:34:50,311 [main] section9.TestBrowsers  - clicking on next button
+INFO    2020-07-08 20:34:57,718 [main] section9.TestBrowsers  - Incorrect password text: Wrong password. Try again or click Forgot password to reset it.
